@@ -76,7 +76,7 @@ OR just click on the run button on top navigation bar on the IDE.
 
 project-folder/
 │
-├── .idea/
+├-- .idea/
 ├── .venv/
 ├── chat_history.json
 ├── README.md
