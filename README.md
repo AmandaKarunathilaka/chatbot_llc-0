@@ -76,7 +76,9 @@ OR just click on the run button on top navigation bar on the IDE.
 
 project-folder/
 │
-├── chat_history.json   # Stores conversation history
-├── README.md           # Project documentation
-├── main.py             # Main application file (chatbot GUI and logic)
-└── .gitignore          # Files/folders to ignore in Git
+├── .idea/
+├── .venv/
+├── chat_history.json
+├── README.md
+├── main.py
+└── .gitignore
