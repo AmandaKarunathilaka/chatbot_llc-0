@@ -20,7 +20,7 @@ A modern desktop AI chatbot built using **Python**, powered by **Phi-3 (via Olla
 
 ## 🛠️ Tech Stack
 
-- **Python**
+- **Python** (Pycharm as IDE)
 - **CustomTkinter** (GUI)
 - **LangChain**
 - **Ollama**
@@ -64,3 +64,5 @@ ollama serve
 ```bah
 python chatbot_langchain_gui.py
 ```
+OR just click on the run button on top navigation bar on the IDE.
+
