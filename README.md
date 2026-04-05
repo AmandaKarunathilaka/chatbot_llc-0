@@ -72,13 +72,15 @@ OR just click on the run button on top navigation bar on the IDE.
 - Stores chat history in a JSON file
 - Displays messages using a modern GUI layout
 
-📁 Project Structure
+## 📁 Project Structure
 
+```plaintext
 project-folder/
 │
-├-- .idea/
+├── .idea/
 ├── .venv/
 ├── chat_history.json
 ├── README.md
 ├── main.py
 └── .gitignore
+```
