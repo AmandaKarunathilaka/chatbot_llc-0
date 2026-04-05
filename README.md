@@ -72,11 +72,11 @@ OR just click on the run button on top navigation bar on the IDE.
 - Stores chat history in a JSON file
 - Displays messages using a modern GUI layout
 
+📁 Project Structure
+
 project-folder/
 │
-├── .idea/
-├── .venv/
-├── chat_history.json
-├── README.md
-├── main.py
-└── .gitignore
+├── chat_history.json   # Stores conversation history
+├── README.md           # Project documentation
+├── main.py             # Main application file (chatbot GUI and logic)
+└── .gitignore          # Files/folders to ignore in Git
