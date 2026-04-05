@@ -66,3 +66,17 @@ python chatbot_langchain_gui.py
 ```
 OR just click on the run button on top navigation bar on the IDE.
 
+🧠 How It Works
+- Uses LangChain + Ollama to interact with the Phi-3 model
+- Maintains conversation context using recent messages
+- Stores chat history in a JSON file
+- Displays messages using a modern GUI layout
+
+project-folder/
+│
+├── .idea/
+├── .venv/
+├── chat_history.json
+├── README.md
+├── main.py
+└── .gitignore
