@@ -35,26 +35,32 @@ A modern desktop AI chatbot built using **Python**, powered by **Phi-3 (via Olla
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+```
 
-2️⃣ Create a virtual environment
+### 2️⃣ Create a virtual environment
+```bash
 python -m venv .venv
-
+```
 Activate it:
-
 Windows:
-
+```bash
 .\.venv\Scripts\Activate.ps1
-
-3️⃣ Install dependencies
+```
+### 3️⃣ Install dependencies
+```bash
 pip install customtkinter langchain langchain-ollama ollama
-4️⃣ Install and run Ollama
+```
+
+### 4️⃣ Install and run Ollama
 
 Download Ollama from: https://ollama.com
 
 Then run:
-
+```bash
 ollama pull phi3
 ollama serve
-
+```
 ▶️ Run the Application
+```bah
 python chatbot_langchain_gui.py
+```
