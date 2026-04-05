@@ -77,9 +77,7 @@ OR just click on the run button on top navigation bar on the IDE.
 ```plaintext
 project-folder/
 │
-├── .idea/
-├── .venv/
-├── chat_history.json
+├── screenshots/
 ├── README.md
 ├── main.py
 └── .gitignore
